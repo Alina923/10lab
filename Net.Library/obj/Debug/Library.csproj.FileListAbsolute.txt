@@ -1,0 +1,6 @@
+C:\Users\Алина\Desktop\10лаб\ClientServerApp-master\Net.Library\bin\Debug\SomeProject.Library.dll
+C:\Users\Алина\Desktop\10лаб\ClientServerApp-master\Net.Library\bin\Debug\SomeProject.Library.pdb
+C:\Users\Алина\Desktop\10лаб\ClientServerApp-master\Net.Library\obj\Debug\Library.csprojAssemblyReference.cache
+C:\Users\Алина\Desktop\10лаб\ClientServerApp-master\Net.Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\Алина\Desktop\10лаб\ClientServerApp-master\Net.Library\obj\Debug\SomeProject.Library.dll
+C:\Users\Алина\Desktop\10лаб\ClientServerApp-master\Net.Library\obj\Debug\SomeProject.Library.pdb
